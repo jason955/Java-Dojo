@@ -163,6 +163,9 @@ Basic Java:
   First Java Program through Eclipse  
 2. Data types and Operators  
   Primitive Datatypes, Declarations, Ranges  
+   **Primitive types are the most basic data types available within the Java language. There are 8: boolean, byte, char, short, int, long, float and double. These types serve as the building blocks of data manipulation in Java.
+One kind of Java statement is a declaration statement, which is used to declare a variable by specifying its data type and name. 
+**
   Variable Names Conventions  
   Numeric Literals, Character Literals  
   String Literals  
